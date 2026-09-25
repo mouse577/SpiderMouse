@@ -1,0 +1,5 @@
+/home/jovyan/CS2270_S23/term-project-neoygaj/build/CMakeFiles/run_tests.dir
+/home/jovyan/CS2270_S23/term-project-neoygaj/build/CMakeFiles/run_app.dir
+/home/jovyan/CS2270_S23/term-project-neoygaj/build/CMakeFiles/test.dir
+/home/jovyan/CS2270_S23/term-project-neoygaj/build/CMakeFiles/edit_cache.dir
+/home/jovyan/CS2270_S23/term-project-neoygaj/build/CMakeFiles/rebuild_cache.dir
